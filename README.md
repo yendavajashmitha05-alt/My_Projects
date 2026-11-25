@@ -12,8 +12,6 @@
 ## Projects
 1. Hotel Reservation System – Java, JDBC, MySQL
 2. Shopping Cart System – Java Collections Framework
-3. RFID-Based Smart Locker System
-4. Ulcer Prevention Monitoring System
 
 ## Certifications
 - Java Training Program – SLITS
